@@ -1,13 +1,13 @@
 #If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:$PATH:$HOME/.local/bin:$HOME/opt/flutter/bin:$HOME/opt/android/sdk/platform-tools:$PATH
-export JAVA_HOME=/usr/lib/jvm/default
+export JAVA_HOME=/usr/lib/jvm/default-java
 export ANDROID_HOME=$HOME/opt/android/sdk
 export ZSH=$HOME/.oh-my-zsh
 export EDITOR='nvim'
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="agnoster"
+ZSH_THEME="gentoo"
 
 # Set list of themes to load
 # Setting this variable when ZSH_THEME=random
