@@ -1,0 +1,1 @@
+/home/varun/Projects/ultrabubbles/ultrabubbles.zsh-theme
